@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /dashboard/
+Disallow: /auth/
 
-Sitemap: undefined/sitemap.xml
+Sitemap: https://yourdomain.com/sitemap.xml
